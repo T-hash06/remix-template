@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.mainPage {
+	@apply flex flex-col items-center justify-center h-screen w-screen;
+}
+
+.title {
+	@apply text-3xl font-semibold;
+}
